@@ -1,31 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6b5a90d502c7a5568854d1953f08900",
+    "revision": "c32084b23cc880546072675e8c5b6edd",
     "url": "/index.html"
   },
   {
-    "revision": "eeec8d8f82893e987170",
+    "revision": "f00bc059ba2596d3192a",
     "url": "/static/css/2.0c8fc136.chunk.css"
   },
   {
-    "revision": "0a417bd1356c9cb08337",
-    "url": "/static/css/main.1691220b.chunk.css"
+    "revision": "49233cdccdc8b2684fc4",
+    "url": "/static/css/main.e3881435.chunk.css"
   },
   {
-    "revision": "eeec8d8f82893e987170",
-    "url": "/static/js/2.9c9a9546.chunk.js"
+    "revision": "f00bc059ba2596d3192a",
+    "url": "/static/js/2.c60eee1e.chunk.js"
   },
   {
     "revision": "9b4cc3fc6faa6bd033ff34b88a3ddb6a",
-    "url": "/static/js/2.9c9a9546.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c60eee1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a417bd1356c9cb08337",
-    "url": "/static/js/main.418c5dec.chunk.js"
+    "revision": "49233cdccdc8b2684fc4",
+    "url": "/static/js/main.1e17c4e1.chunk.js"
   },
   {
-    "revision": "e3f63f7a15b0f0c9243f",
-    "url": "/static/js/runtime-main.7cf2b09a.js"
+    "revision": "a0f89eabb6b65284c670",
+    "url": "/static/js/runtime-main.8f70447f.js"
+  },
+  {
+    "revision": "eeebc9ab30cd1b0c3955af1e61b8fe44",
+    "url": "/static/media/CedisVallejo.eeebc9ab.jpg"
+  },
+  {
+    "revision": "0fb3ab0d5d1028536f4c50c38c5c4024",
+    "url": "/static/media/CityMarket.0fb3ab0d.jpg"
+  },
+  {
+    "revision": "0b35f81432a27dc6c663b2cfd901a7dd",
+    "url": "/static/media/Fresko.0b35f814.jpg"
+  },
+  {
+    "revision": "754ce765f4c05e706bc8b27e1880c74c",
+    "url": "/static/media/Gasolinera.754ce765.jpg"
+  },
+  {
+    "revision": "8583a4238fb06bc048c807d870ab4bbd",
+    "url": "/static/media/Gomart.8583a423.jpg"
+  },
+  {
+    "revision": "f374ca8b56af779bd57f0228a949e660",
+    "url": "/static/media/HospitalNavalMilitar.f374ca8b.jpg"
   },
   {
     "revision": "6d6b67dd72e4db841331af2e66841136",
@@ -68,6 +92,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/IMAGEN9.f69ddb1a.jpg"
   },
   {
+    "revision": "db1188200f936a3b1257938430c75d3d",
+    "url": "/static/media/LaComerQueretaro.db118820.jpg"
+  },
+  {
+    "revision": "fe7bb082c5c10d1b191501017b6f70f9",
+    "url": "/static/media/LacomerIrapuato.fe7bb082.jpg"
+  },
+  {
     "revision": "d29ba50ee5f3246b58a7ede023e28765",
     "url": "/static/media/colores01.d29ba50e.png"
   },
@@ -84,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/email.e4da94fb.jpg"
   },
   {
-    "revision": "efe1edbd1c35666d4d1b95619dc06924",
-    "url": "/static/media/facebook.efe1edbd.png"
+    "revision": "278a0cca677f5d7f1a8ae0d244c7f697",
+    "url": "/static/media/facebook.278a0cca.png"
   },
   {
     "revision": "3030900a8028688b4e9945037bedde08",
