@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gloomaps scheme="1.0">
-  <link>https://www.gloomaps.com/iVDX6WgaQ6</link>
-  <pubdate>06/29/2020</pubdate>
-  <section>
-    <box>
-      <text>gruposejiv.com</text>
-      <member>
-        <box>
-          <text>Page</text>
-          <member/>
-        </box>
-        <box>
-          <text>Page</text>
-          <member/>
-        </box>
-        <box>
-          <text>Page</text>
-          <member/>
-        </box>
-      </member>
-    </box>
-  </section>
-</gloomaps>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>gruposejiv.com</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>
+</urlset>
